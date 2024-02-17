@@ -1,0 +1,2 @@
+# DKLike_LastSecondHintMod
+DKLike_LastSecondHintMod mod
